@@ -2,7 +2,7 @@
 
 Submitted by: Mohamed Awad
 
-This web app: inserts, removes tasks added into your agenda
+This web app: inserts, and removes tasks added to your agenda
 
 Time spent: **X** hours spent in total
 
@@ -56,7 +56,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Mohamed Awad]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
