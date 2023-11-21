@@ -4,7 +4,7 @@ Submitted by: Mohamed Awad
 
 This web app: inserts, and removes tasks added to your agenda
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
